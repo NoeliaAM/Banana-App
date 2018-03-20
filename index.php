@@ -357,6 +357,7 @@
               <li><a class="grey-text text-lighten-4" href="#!">Instagram</a></li>
               <li><a class="grey-text text-lighten-4" href="#!">Facebook</a></li>
               <li><a class="grey-text text-lighten-4" href="#!">Twitter</a></li>
+                <li><a class="grey-text text lighten-4" href="https://github.com/NoeliaAM/Banana-App.git">Git Hub</a></li>
             </ul>
         </div>
       </div>
